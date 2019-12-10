@@ -1,7 +1,61 @@
 @charset "UTF-8";
 /* CSS Document */
 
+body {
+	background-color: #E3E5E6;
+	font-family: Titillium Web, Arial, Helvetica Neue, Helvetica, sans-serif;
+}
 .nav {
 	background-color: #091F2C;
 	color: #FFFFFF;
+	height: 75px;
+}
+a {
+	text-decoration: none;
+	color: #FFF;
+	font-size: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+div{
+	width: ;
+	height: ;
+	background-color: ;
+	color: ;
+}
+
+
+
+.mainmenu{
+	margin-left: 12px;
+	margin-right: 12px;
+}
+
+img{
+	width: 300px;
+}
+
+section{
+	margin-left: auto;
+	margin-right: auto;
+	width: 640px;
+	height: 300px;
+	background-color: #FFFFFF;
+	margin-top: 10px;
+
+}
+.box2{
+	width: 300px;
+	height: 300px;
+	margin-left: 10px;
+	margin-right: 10px;
+	float: left;
+}
+.imgbox {
+	width: 300px;
+	height: 300px;
+	float: left;
+}
+h4{
+	color: #19AB79;
 }
